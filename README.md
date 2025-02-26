@@ -61,7 +61,7 @@ git clone [https://github.com/seuusuario/seuprojeto.git](https://github.com/edua
 cd testeJob
 
 # Execute a aplicação
-[ No terminal para gerar o SQLITE: 
+[ No terminal para gerar o SQLITE: ]
 
 touch database/database.sqlite
 
@@ -70,8 +70,6 @@ Edite o arquivo .env e altere as configurações do banco de dados para:
 DB_CONNECTION=sqlite
 DB_DATABASE=${DB_DATABASE_PATH}/database.sqlite
 DB_FOREIGN_KEYS=true
-
-]
 
 ```
 
