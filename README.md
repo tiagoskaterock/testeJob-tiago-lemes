@@ -55,16 +55,24 @@ Este sistema permite a gestão de notas de alunos vinculados a professores, prop
 
 ```sh
 # Clone este repositório
-git clone https://github.com/seuusuario/seuprojeto.git
+git clone [https://github.com/seuusuario/seuprojeto.git](https://github.com/eduardojc/testeJob.git)
 
 # Entre no diretório do projeto
-cd seuprojeto
-
-# Instale as dependências
-[comando de instalação]
+cd testeJob
 
 # Execute a aplicação
-[comando de execução]
+[ No terminal para gerar o SQLITE: 
+
+touch database/database.sqlite
+
+Edite o arquivo .env e altere as configurações do banco de dados para:
+
+DB_CONNECTION=sqlite
+DB_DATABASE=${DB_DATABASE_PATH}/database.sqlite
+DB_FOREIGN_KEYS=true
+
+]
+
 ```
 
 ## 🤝 Contribuição
