@@ -48,7 +48,7 @@ Este sistema permite a gestão de notas de alunos vinculados a professores, prop
 ## 🔧 Tecnologias Utilizadas
 
 - **Back-end**: Laravel
-- **Front-end**: Laravel, React, Livewire, Vue, CSS, BOOTSTRAP (A VOTADE )
+- **Front-end**: Laravel, React, Livewire, Vue, CSS, BOOTSTRAP (A VONTADE )
 - **Banco de Dados**: PODE SER SQLite no Laravel ou MySQL ( em caso de MySQL gerar um Container no Docker )
 
 ## 🚀 Como Rodar o Projeto
