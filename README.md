@@ -87,5 +87,5 @@ Contribuições são bem-vindas! Siga os passos:
 
 ---
 
-Feito com ❤️ por [Seu Nome](https://github.com/eduardojc) 🚀
+Feito com ❤️ por [Eduardo Jose Christofoletti](https://github.com/eduardojc) 🚀
 
