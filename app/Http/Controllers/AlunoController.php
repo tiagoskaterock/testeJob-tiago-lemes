@@ -13,7 +13,7 @@ class AlunoController extends Controller
     public function index()
     {
         $alunos = User::where('perfil', 'Aluno')->get();
-        return view('alunos.index');
+        return view('alunos.index', compact('alunos'));
     }
 
     /**

@@ -48,3 +48,5 @@
     </ul>
   </nav>
   <!-- /.navbar -->
+
+  @include('layouts.flash')
