@@ -36,3 +36,5 @@ require __DIR__.'/auth.php';
 // require __DIR__.'/users.php';
 
 require __DIR__.'/alunos.php';
+
+require __DIR__.'/professores.php';

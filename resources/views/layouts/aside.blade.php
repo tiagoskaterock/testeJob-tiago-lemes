@@ -41,6 +41,15 @@
           </a>
         </li>
 
+        <li class="nav-item">
+          <a href="{{ route('admin.professores') }}" class="nav-link" title="Professores">
+            <i class="nav-icon fas fa-chalkboard-teacher"></i>
+            <p>
+              Professores
+            </p>
+          </a>
+        </li>
+
     </nav>
     <!-- /.sidebar-menu -->
   </div>
