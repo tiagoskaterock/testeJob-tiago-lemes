@@ -33,8 +33,8 @@ Route::middleware('auth')->group(function () {
 
 require __DIR__.'/auth.php';
 
-// require __DIR__.'/users.php';
-
 require __DIR__.'/alunos.php';
 
 require __DIR__.'/professores.php';
+
+require __DIR__.'/perfil.php';
